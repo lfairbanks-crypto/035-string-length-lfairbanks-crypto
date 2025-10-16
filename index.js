@@ -1,7 +1,4 @@
-let hamlet = 'To be, or not to be, that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune,
-Or to take Arns against a Sea of trouble:
+let hamlet = 'eeeeeee:
 let length = hanlet.length;
 let firstLetter = hamlet[0l;
 let secondLetter = hamlet [1];
