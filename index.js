@@ -11,3 +11,4 @@ document.getElenentById("length"). innerHTML Length;
 document.getElementById("first-letter").innerHTML = firstLetter;
 document.getElenentById("second-letter").innerHTML secondLetter;
 document.getElementById("last-letter").innerHTML = lastLetter;
+ 
